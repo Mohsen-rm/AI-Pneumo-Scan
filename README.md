@@ -2,7 +2,11 @@
 
 AI Pneumo Scan is a web and mobile-based pneumonia detection app that uses deep learning to analyze chest X-ray images.
 
-![Project Overview](project_page_1_highres.png)
+<br/>
+
+<img src="project_page_1_highres.png" alt="Project Overview" width="600"/>
+
+<br/>
 
 ## 🔍 Features
 - Upload a chest X-ray and get a real-time diagnosis.
